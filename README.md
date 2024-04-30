@@ -24,13 +24,10 @@ We welcome contributions from all team members! If you have ideas for new featur
 ## Team
 Meet the team behind the Jadetech 3D Card Game project:
 
-- **Project Lead**: [Your Name]
+- **Project Lead**: [Izzah]
 - **Game Designer**: [Designer's Name]
 - **3D Artist**: [Artist's Name]
 - **Unity Developer**: [Developer's Name]
-
-## License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 We would like to thank [Any Acknowledgments] for their contributions and support during the development of this project.
