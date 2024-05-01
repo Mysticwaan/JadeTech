@@ -1,9 +1,15 @@
-# Jadetech 3D Card Game Project
+<div align="center">
+  
+# <span style="color:blue">Jadetech 3D Card Game Project</span>
 
 Welcome to the Jadetech 3D Card Game project repository! This repository contains all the code, assets, and documentation related to the development of our exciting new game.
 
+![OIG2](https://github.com/Mysticwaan/JadeTech/assets/136006928/023d7776-24c2-4db3-b844-045d68d49aa5)
+
 ## About the Game
 The Jadetech 3D Card Game is a unique blend of traditional card game mechanics and immersive 3D graphics. Players will embark on epic adventures, collect powerful cards, and engage in strategic battles in a stunning 3D environment.
+
+![OIG2 hoe](https://github.com/Mysticwaan/JadeTech/assets/136006928/8e78b643-5410-461d-8169-a9cde82b57da)
 
 ## Project Structure
 - **/Assets**: Contains all the 3D models, textures, animations, and other assets used in the game.
@@ -34,3 +40,4 @@ We would like to thank [Any Acknowledgments] for their contributions and support
 
 Happy coding, and let's make an amazing game together!
 
+</div>
