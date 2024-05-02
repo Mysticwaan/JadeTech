@@ -26,7 +26,7 @@ To get started with the development of the Jadetech 3D Card Game, follow these s
 2. Open the project in Unity (make sure you have the correct version installed).
 3. Explore the existing code and assets to familiarize yourself with the project.
 4. Join our team Discord server for real-time communication and collaboration (link provided in the Discord channel).
-5. 
+
 ![OIG4](https://github.com/Mysticwaan/JadeTech/assets/136006928/bc8ec4b9-4eb9-48a4-bc66-1a1236727e3c)
 
 ## Contributing
@@ -38,7 +38,7 @@ We welcome contributions from all team members! If you have ideas for new featur
 ## Team
 Meet the team behind the Jadetech 3D Card Game project:
 
-- **Project Lead**: [Izzah]
+- **Project Lead**: [Lead Name]
 - **Game Designer**: [Designer's Name]
 - **3D Artist**: [Artist's Name]
 - **Unity Developer**: [Developer's Name]
