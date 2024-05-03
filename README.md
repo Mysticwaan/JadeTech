@@ -7,7 +7,7 @@ Welcome to the Jadetech 3D Card Game project repository! This repository contain
 ![OIG2](https://github.com/Mysticwaan/JadeTech/assets/136006928/023d7776-24c2-4db3-b844-045d68d49aa5)
 
 ## About the Game
-The Jadetech 3D Card Game is a unique blend of traditional card game mechanics and immersive 3D graphics. Players will embark on epic adventures, collect powerful cards, and engage in strategic battles in a stunning 3D environment.
+The Jadetech 3D Card Game is a unique blend of traditional card game mechanics and immersive 3D graphics. Players will embark on epic adventures, collect powerful cards, and engage in strategic battles in a stunning 3D environment. 
 
 ![OIG2 hoe](https://github.com/Mysticwaan/JadeTech/assets/136006928/8e78b643-5410-461d-8169-a9cde82b57da)
 
