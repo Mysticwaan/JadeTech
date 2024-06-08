@@ -15,7 +15,7 @@ The Jadetech 3D Card Game is a unique blend of traditional card game mechanics a
 - **/Assets**: Contains all the 3D models, textures, animations, and other assets used in the game.  
 - **/Scripts**: Contains the Unity C# scripts responsible for implementing gameplay mechanics, UI interactions, and more.
 - **/Documentation**: Contains project documentation including design documents, user guides, and technical specifications.
-   
+     
 ![OIG1](https://github.com/Mysticwaan/JadeTech/assets/136006928/1439b275-e086-4e24-a0c6-5d220484a221)
  
     
