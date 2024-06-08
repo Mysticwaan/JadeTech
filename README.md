@@ -1,7 +1,7 @@
 <div align="center">
     
 # <span style="color:blue">Jade-Tech 3D Card Game Project</span>  
-
+  
 Welcome to the Jade-Tech 3D Card Game project repository! This repository contains all the code, assets, and documentation related to the development of our exciting new game.   
       
 ![OIG2](https://github.com/Mysticwaan/JadeTech/assets/136006928/023d7776-24c2-4db3-b844-045d68d49aa5)
