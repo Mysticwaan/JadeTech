@@ -1,5 +1,5 @@
 <div align="center">
-       https://jadetech.netlify.app/
+       
 # <span style="color:blue">Jade-Tech 3D Card Game Project</span>  
       
 Welcome to the Jade-Tech 3D Card Game project repository! This repository contains all the code, assets, and documentation related to the development of our exciting new game.     
@@ -50,5 +50,6 @@ Happy coding, and let's make an amazing game together!
 
 ![441081850_1503301003559299_5635029200335572471_n](https://github.com/Mysticwaan/JadeTech/assets/136006928/52316569-72b9-4d62-b15f-c63d8f7ad319)
 
+       https://jadetech.netlify.app/
 
 </div>
