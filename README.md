@@ -28,8 +28,46 @@ This project was made using revitalised inspiration from all the new ai and mach
 ## Game Identity
 So i tried experimenting with different colours and art style for this cyber futuristic card game and...
 ![image](https://github.com/user-attachments/assets/4bf759d3-1665-4069-9464-45fe4f9ba3e2)
-It didn't quiete look right? Hmmm maybe it needs more bright colours
+
+It didn't quiete look right? I think it needs more bright colours
+
 ![Untitled34](https://github.com/user-attachments/assets/4489abf8-73d5-432e-899a-902bc58c1213)
+
+Next up i spend a embarrising amount of time modelling and designing different card designs
+
+![dasad](https://github.com/user-attachments/assets/07ec8cb6-8ec8-4c68-a6f3-8912ed2ebd8b)
+
+![image3211](https://github.com/user-attachments/assets/7af187ed-a459-40d5-9718-ace3aa48027a)
+
+it boiled down to these 6, it still work in progress
+
+
+## Cards>>>
+![image3211211](https://github.com/user-attachments/assets/3ba8908c-5ff5-4eed-af20-c5fb2f92393d)
+
+Ofcourse a card game is nothing without the creatures bringing them to life!
+
+![imagedsa](https://github.com/user-attachments/assets/57b34bfa-7155-4a79-aef8-eba84f6122e1)
+
+Time to bring out the wallet
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjN0eHI2aGYxem81aDZpczU1cmNybWd6ZXlwcjZlZmRwN3FnaHgyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Jhdg8Qro5kMo/giphy.gif" width="400" height="300" />
+
+
+Bought a bunch cute set of monsters that with a little touch up have some serious potential
+
+![image321321](https://github.com/user-attachments/assets/fdf1c242-46e2-481b-835b-bbd6d45c2996)
+
+Shove them all quickly in a photobooth for a photoshoot
+
+![All Creatures](https://github.com/user-attachments/assets/913ecaea-cbeb-44e0-8a90-a25ceee08a5a)
+
+![Angel Mage](https://github.com/user-attachments/assets/f89f6498-7d02-4d2c-9eae-d06e74b155bf)
+
+The vision is visioning 
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk4NDFpZ2ZteG83b3gxZG1zbHhicGN6Nzd6eWh0ZzNleTNnanE1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmJVNXpTsoqh8DgCOe/giphy.webp" width="400" height="300" />
+
 
           
 ## About the Game
