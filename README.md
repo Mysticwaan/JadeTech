@@ -106,10 +106,7 @@ Here are some behind the scenes on some of the scripting currently going on:
 ![Screenshot 2024-12-30 101042](https://github.com/user-attachments/assets/246b47e4-e358-4131-a836-13895acfa415)
 
 
-
-
-
-Now let me give you the rundown on phase 2 and it starts the two worlds the players will play in:
+Now back at Jade-Tech we have to worlds that you'll play in
 
 ![ewqq](https://github.com/user-attachments/assets/15f1055b-3cb0-434d-9b4c-03e99807d87d)
 
@@ -117,60 +114,9 @@ The upper world will have a bright and electric tone while the underworld will h
 
 ![23132](https://github.com/user-attachments/assets/03dd796c-c0f3-46d1-9ac4-79f527a1929a)
 
-The UI will display several different things and it might look a little confusing at first but its fairly simple:
-
-![Screenshot 2024-12-30 095820](https://github.com/user-attachments/assets/82686df1-d386-4400-a8a5-ce89eb6ba3b3)
-
-
-
-
-## About the Game
-The Jadetech 3D Card Game is a unique blend of traditional card game mechanics and immersive 3D graphics. Players will embark on epic adventures, collect powerful cards, and engage in strategic battles in a stunning 3D environment. 
+## Sharing is caring
+If you have ideas for new features, improvements, or additions to the story, feel free to hit me up and let me know!
     
 ![OIG2 hoe](https://github.com/Mysticwaan/JadeTech/assets/136006928/8e78b643-5410-461d-8169-a9cde82b57da) 
 
 
-
-        
-## Project Structure
-- **/Assets**: Contains all the 3D models, textures, animations, and other assets used in the game.  
-- **/Scripts**: Contains the Unity C# scripts responsible for implementing gameplay mechanics, UI interactions, and more.
-- **/Documentation**: Contains project documentation including design documents, user guides, and technical specifications.
-     
-![OIG1](https://github.com/Mysticwaan/JadeTech/assets/136006928/1439b275-e086-4e24-a0c6-5d220484a221)
-   
-      
-## Getting Started
-To get started with the development of the Jadetech 3D Card Game, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Open the project in Unity (make sure you have the correct version installed).
-3. Explore the existing code and assets to familiarize yourself with the project.
-4. Join our team Discord server for real-time communication and collaboration (link provided in the Discord channel).
-  
-![OIG4](https://github.com/Mysticwaan/JadeTech/assets/136006928/bc8ec4b9-4eb9-48a4-bc66-1a1236727e3c)
-
-## Contributing
-We welcome contributions from all team members! If you have ideas for new features, improvements, or bug fixes, feel free to create a new branch, make your changes, and submit a pull request. Be sure to follow our coding standards and guidelines outlined in the CONTRIBUTING.md file.
-
-![OIG4](https://github.com/Mysticwaan/JadeTech/assets/136006928/e70c38cd-4bdf-46de-a244-bbf54027a259)
-
-
-## Team
-Meet the team behind the Jadetech 3D Card Game project:
-
-- **Project Lead**: [Lead Name]
-- **Game Designer**: [Designer's Name]
-- **3D Artist**: [Artist's Name]
-- **Unity Developer**: [Developer's Name]
-
-## Acknowledgments
-We would like to thank [Any Acknowledgments] for their contributions and support during the development of this project.
-
-Happy coding, and let's make an amazing game together!
-
-![441081850_1503301003559299_5635029200335572471_n](https://github.com/Mysticwaan/JadeTech/assets/136006928/52316569-72b9-4d62-b15f-c63d8f7ad319)
-
-       https://jadetech.netlify.app/
-
-</div>
