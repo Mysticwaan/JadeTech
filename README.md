@@ -2,6 +2,8 @@
        
 # <span style="color:blue">Jade-Tech 3D Card Game Project</span>  
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxmMmJldW5pYmpmeGxqbmhkeG1pYm5pazg1bDdjdTNyNWZramZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qESBZRcLXrFUbE9r8Z/giphy.webp" width="400" height="300" />
+
 Welcome to the Jade-Tech 3D Card Game project repository! This repository contains all the code, assets, and documentation related to the development of our exciting new game.     
 
 ![Screenshot 2024-12-28 052802](https://github.com/user-attachments/assets/891357ac-8b90-427c-9624-ef4a48491215)
@@ -29,7 +31,7 @@ This project was made using revitalised inspiration from all the new ai and mach
 So i tried experimenting with different colours and art style for this cyber futuristic card game and...
 ![image](https://github.com/user-attachments/assets/4bf759d3-1665-4069-9464-45fe4f9ba3e2)
 
-It didn't quiete look right? I think it needs more bright colours
+It's already feeling special!
 
 ![Untitled34](https://github.com/user-attachments/assets/4489abf8-73d5-432e-899a-902bc58c1213)
 
@@ -68,12 +70,66 @@ The vision is visioning
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk4NDFpZ2ZteG83b3gxZG1zbHhicGN6Nzd6eWh0ZzNleTNnanE1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmJVNXpTsoqh8DgCOe/giphy.webp" width="400" height="300" />
 
+## Phase 2
+For Phase two let me introduce you to V, he'll take it from here (he's a bit corny)
 
-          
+![guide](https://github.com/user-attachments/assets/56a16049-2e9b-461b-ba22-eba4b31332c5)
+
+I am V, a cutting-edge AI and the unrivaled tactician of Jade Tech— Let me give you a run down of the UI you will be using:
+
+![Screenshot 2024-12-30 095820](https://github.com/user-attachments/assets/6cc7dbb0-6ff2-4b06-a037-b6157556b752)
+
+
+will display several different things and it might look a little confusing at first but its fairly simple:
+
+
+![Tutorial](https://github.com/user-attachments/assets/0799acca-1bd5-441b-86a4-30a9e90358c7)
+
+As you can see its mainly a card select menu that lets you move around your cards in your deck and display them in 3d
+
+![Screenshot 2024-12-30 095712](https://github.com/user-attachments/assets/3703d77a-7b73-4cbf-838e-5bb063af56b6)
+
+You also have active card slots which is what you will primarly be using as you are running around Jade-Tech
+
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="https://github.com/user-attachments/assets/6d42c93e-fb84-45f4-b1da-98ed0a61f39e" alt="Updated World - Image 1" style="width: 48%;">
+
+  <img src="https://github.com/user-attachments/assets/3a66f1e5-7f72-42d2-9b16-cd9caf4969cf" alt="Updated World - Image 2" style="width: 48%;">
+
+</div>
+
+Here are some behind the scenes on some of the scripting currently going on:
+
+![Screenshot 2024-12-30 100844](https://github.com/user-attachments/assets/d8f96465-5026-43ed-bf92-85176a2bb02a)
+
+![Screenshot 2024-12-30 101042](https://github.com/user-attachments/assets/246b47e4-e358-4131-a836-13895acfa415)
+
+
+
+
+
+Now let me give you the rundown on phase 2 and it starts the two worlds the players will play in:
+
+![ewqq](https://github.com/user-attachments/assets/15f1055b-3cb0-434d-9b4c-03e99807d87d)
+
+The upper world will have a bright and electric tone while the underworld will have a dark and shadowy tone to contrast and seperate the two worlds.
+
+![23132](https://github.com/user-attachments/assets/03dd796c-c0f3-46d1-9ac4-79f527a1929a)
+
+The UI will display several different things and it might look a little confusing at first but its fairly simple:
+
+![Screenshot 2024-12-30 095820](https://github.com/user-attachments/assets/82686df1-d386-4400-a8a5-ce89eb6ba3b3)
+
+
+
+
 ## About the Game
 The Jadetech 3D Card Game is a unique blend of traditional card game mechanics and immersive 3D graphics. Players will embark on epic adventures, collect powerful cards, and engage in strategic battles in a stunning 3D environment. 
     
 ![OIG2 hoe](https://github.com/Mysticwaan/JadeTech/assets/136006928/8e78b643-5410-461d-8169-a9cde82b57da) 
+
+
 
         
 ## Project Structure
