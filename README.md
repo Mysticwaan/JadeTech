@@ -1,15 +1,42 @@
 <div align="center">
        
 # <span style="color:blue">Jade-Tech 3D Card Game Project</span>  
-      
+
 Welcome to the Jade-Tech 3D Card Game project repository! This repository contains all the code, assets, and documentation related to the development of our exciting new game.     
-        
+
+![Screenshot 2024-12-28 052802](https://github.com/user-attachments/assets/891357ac-8b90-427c-9624-ef4a48491215)
+
+
 ![OIG2](https://github.com/Mysticwaan/JadeTech/assets/136006928/023d7776-24c2-4db3-b844-045d68d49aa5)
+
+Head over to the JadeTech Website to see more!
+
+https://jadetech.netlify.app/
+
+<img src="https://github.com/user-attachments/assets/aa952293-9ff9-4b00-b60f-07aa69a09f15" width="800" height="400" />
+
+You can also stay on Git and find out about my design process below &#x2B07;
+
+## Phase 1
+
+![Screenshot 2024-12-28 052729](https://github.com/user-attachments/assets/f6fb8dee-a7db-4de4-a5b6-14651d12aec6)
+
+This project was made using revitalised inspiration from all the new ai and machine learning technology coming out. the potential seems limitless and its exciting to even think about all the crazy things you can do now that you couldnt even 5 years ago as a solo developer! with that being said i had a clear game plan on what i need to make this project come to life:
+
+![imagewqe](https://github.com/user-attachments/assets/d6724182-77f6-4cf5-8887-81d78539a4d1)
+
+## Game Identity
+So i tried experimenting with different colours and art style for this cyber futuristic card game and...
+![image](https://github.com/user-attachments/assets/4bf759d3-1665-4069-9464-45fe4f9ba3e2)
+It didn't quiete look right? Hmmm maybe it needs more bright colours
+![Untitled34](https://github.com/user-attachments/assets/4489abf8-73d5-432e-899a-902bc58c1213)
+
           
 ## About the Game
 The Jadetech 3D Card Game is a unique blend of traditional card game mechanics and immersive 3D graphics. Players will embark on epic adventures, collect powerful cards, and engage in strategic battles in a stunning 3D environment. 
     
 ![OIG2 hoe](https://github.com/Mysticwaan/JadeTech/assets/136006928/8e78b643-5410-461d-8169-a9cde82b57da) 
+
         
 ## Project Structure
 - **/Assets**: Contains all the 3D models, textures, animations, and other assets used in the game.  
