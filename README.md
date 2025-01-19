@@ -4,6 +4,8 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxmMmJldW5pYmpmeGxqbmhkeG1pYm5pazg1bDdjdTNyNWZramZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qESBZRcLXrFUbE9r8Z/giphy.webp" width="400" height="300" />
 
+![image](https://github.com/user-attachments/assets/679a22dc-f7b0-4c23-8134-68fa95ca0313)
+
 Welcome to the Jade-Tech 3D Card Game project repository! This repository showcases the development process and features of this innovative card game.     
 
 ![Screenshot 2024-12-28 052802](https://github.com/user-attachments/assets/891357ac-8b90-427c-9624-ef4a48491215)
