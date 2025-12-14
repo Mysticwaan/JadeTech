@@ -8,6 +8,7 @@ Welcome to the Jade-Tech 3D Card Game project repository! This repository showca
 
 
 ![OIG2](https://github.com/Mysticwaan/JadeTech/assets/136006928/023d7776-24c2-4db3-b844-045d68d49aa5)
+<img width="1137" height="653" alt="Screenshot 2025-02-04 122645" src="https://github.com/user-attachments/assets/3eb3b070-3195-4b48-8104-10e64122a753" />
 
 Visit the official JadeTech website for more details:
 
